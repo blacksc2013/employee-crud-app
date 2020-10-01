@@ -1,4 +1,4 @@
-# vue-crup-app
+# vue-employee-crud-app
 
 ## Project setup
 ```
