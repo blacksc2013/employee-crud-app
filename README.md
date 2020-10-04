@@ -1,4 +1,7 @@
-# vue-employee-crud-app [![Netlify Status](https://api.netlify.com/api/v1/badges/9fac6f8c-6770-4c6c-9d1d-9c9514864a33/deploy-status)](https://app.netlify.com/sites/employee-crud-app/deploys)
+<h1 align="center">Vue Employee Crud Application.</h1>
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/9fac6f8c-6770-4c6c-9d1d-9c9514864a33/deploy-status)](https://app.netlify.com/sites/employee-crud-app/deploys)
+<a style="text-align: center;" href="https://employee-crud-app.netlify.app/"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=website&color=%230076D6&style=flat&logo=google-chrome&logoColor=%230076D6" alt="website"/></a>
 
 
 ## Project setup
